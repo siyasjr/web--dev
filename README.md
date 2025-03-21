@@ -1,4 +1,4 @@
-# 🌐 Web Dev – Landing Page Collection
+Landing Page Collections
 web--dev is a repository featuring responsive landing page clones, built using HTML, CSS, and JavaScript. It aims to replicate real-world designs and enhance front-end development skills.
 
 Project Structure
