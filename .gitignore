@@ -1,0 +1,46 @@
+### Node.js dependencies (if using any build tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+### Editor and system files
+.vscode/
+.DS_Store
+Thumbs.db
+*.log
+
+### Build and cache files
+/dist/
+/build/
+/out/
+.cache/
+
+### Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+### Environment variables (if using API keys)
+.env
+.env.local
+.env.*.local
+
+### Git-related
+.git/
+*.orig
+
+### Compiled or minified files
+*.min.js
+*.min.css
+
+### Image editing source files
+*.psd
+*.ai
+*.sketch
+
+### Ignore common compressed files
+*.zip
+*.tar.gz
+*.rar
+
